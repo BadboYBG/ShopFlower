@@ -1,0 +1,26 @@
+
+en:
+  hello: "Thanh Flower"
+  home: "Trang Chủ"
+  contact: "Liên Hệ"
+  login: "Login"
+
+  menu:
+    theme: "Hoa Theo Chủ Đề"
+    type: "Hoa Theo Loại"
+    color: "Màu Sắc"
+    style: "Theo Kiểu Thiết Kế"
+    card: "Thiệp"
+    meaning: "Ý Nghĩa Các Loại Hoa"
+  
+  footer:
+    address: "Địa chỉ: 118 Trung Kính, Yên Hoà, Cầu Giấy, Hà Nội"
+    phones: "Hotline 093 820 09 88"
+    locate: "Vị Trí"
+
+  error:
+    e404: "404 Not Found"
+    message: "Xin lỗi, đã xảy ra lỗi, Yêu cầu trang không tìm thấy!"
+
+
+
